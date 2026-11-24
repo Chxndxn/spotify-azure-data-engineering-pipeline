@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://adlsspotifyproject.dfs.core.windows.net/",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDIxRDQ2MUJFLUYzODMtNDZGQi05MDU3LTFGRTI5MjRDODBBQ18xZTZkODdiNi05NmZlLTQ2YzItYTZjYy04OTA4NzM4OGU4NDQiDQp9"
+			"url": "https://adlsspotifydeproject.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEYzMkVENEZFLTlGQUYtNDA0MS04Q0YzLUJDRDYxQUZBNzY3RF82NDU4NWFkMy1iZmU2LTRmNTEtYTY1My02YzE5YzA0Y2U5ZTMiDQp9"
 		}
 	}
 }
