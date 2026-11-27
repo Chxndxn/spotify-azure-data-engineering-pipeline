@@ -1,0 +1,16 @@
+{
+	"name": "DF-SpotifyDE",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d21a388-974f-4399-aa9d-31da8fe5de74",
+		"tenantId": "d5c5c187-0086-42d2-8959-588722ac86e9"
+	}
+}
